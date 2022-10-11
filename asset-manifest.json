@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/davitge.github.io/react-bootcamp--component-rating/static/css/main.a27ba763.css",
+    "main.js": "/davitge.github.io/react-bootcamp--component-rating/static/js/main.ae9814cb.js",
+    "static/media/illustration-thank-you.svg": "/davitge.github.io/react-bootcamp--component-rating/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/davitge.github.io/react-bootcamp--component-rating/index.html",
+    "static/media/icon-star.svg": "/davitge.github.io/react-bootcamp--component-rating/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.a27ba763.css.map": "/davitge.github.io/react-bootcamp--component-rating/static/css/main.a27ba763.css.map",
+    "main.ae9814cb.js.map": "/davitge.github.io/react-bootcamp--component-rating/static/js/main.ae9814cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a27ba763.css",
+    "static/js/main.ae9814cb.js"
+  ]
+}

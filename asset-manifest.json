@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/davitge.github.io/react-bootcamp--component-rating/static/css/main.a27ba763.css",
-    "main.js": "/davitge.github.io/react-bootcamp--component-rating/static/js/main.ae9814cb.js",
-    "static/media/illustration-thank-you.svg": "/davitge.github.io/react-bootcamp--component-rating/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
-    "index.html": "/davitge.github.io/react-bootcamp--component-rating/index.html",
-    "static/media/icon-star.svg": "/davitge.github.io/react-bootcamp--component-rating/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
-    "main.a27ba763.css.map": "/davitge.github.io/react-bootcamp--component-rating/static/css/main.a27ba763.css.map",
-    "main.ae9814cb.js.map": "/davitge.github.io/react-bootcamp--component-rating/static/js/main.ae9814cb.js.map"
+    "main.css": "/react-bootcamp--component-rating/static/css/main.a27ba763.css",
+    "main.js": "/react-bootcamp--component-rating/static/js/main.9f34f683.js",
+    "static/media/illustration-thank-you.svg": "/react-bootcamp--component-rating/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/react-bootcamp--component-rating/index.html",
+    "static/media/icon-star.svg": "/react-bootcamp--component-rating/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.a27ba763.css.map": "/react-bootcamp--component-rating/static/css/main.a27ba763.css.map",
+    "main.9f34f683.js.map": "/react-bootcamp--component-rating/static/js/main.9f34f683.js.map"
   },
   "entrypoints": [
     "static/css/main.a27ba763.css",
-    "static/js/main.ae9814cb.js"
+    "static/js/main.9f34f683.js"
   ]
 }
